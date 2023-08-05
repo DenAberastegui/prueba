@@ -1,0 +1,87 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #F2D0A4;
+    align-items: center;
+    padding: 10px;
+    text-decoration: none;
+}
+
+body{
+    margin: 0;
+}
+
+/* MAIN */
+
+
+
+.menu{
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+}
+
+.menu-n{
+    display: flex;
+    align-items: safe;
+    margin: 10px;
+    color: black;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.bebidas{
+    font-size: 25px;
+    margin: 15px;
+}
+
+.comidas{
+    font-size: 25px;
+    margin: 15px;
+}
+
+/* BEBIDAS FRIAS */
+
+.b-frias{
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+/* BEBIDAS FRIAS */
+
+.b-calientes{
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+/* COMIDAS SALADAS */
+
+.c-salados{
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+/* COMIDAS DULCES */
+
+.c-dulces{
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.productos{
+    height: 150px;
+}
+
+.d-block{
+    height: 620px;
+    width: 1500px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #F2D0A4;
+    align-items: center;
+    padding: 10px;
+    text-decoration: none;
+}
